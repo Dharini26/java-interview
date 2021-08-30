@@ -1,0 +1,7 @@
+Perimeter of Rectangle : 28
+Area of Rectangle : 40
+Perimeter of Square : 28
+Area of Square : 49
+Perimeter of Circle : 18
+Area of Circle : 27
+
